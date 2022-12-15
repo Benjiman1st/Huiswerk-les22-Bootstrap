@@ -1,0 +1,8 @@
+footer{
+    min-height: 200px;
+    border-color: black;
+}
+.btn{
+    border-color: succes;
+    border-radius: 0;
+}
